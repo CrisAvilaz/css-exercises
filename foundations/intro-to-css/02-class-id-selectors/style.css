@@ -1,0 +1,17 @@
+.numero1, .numero3{
+    background-color: lightpink;
+    font-family: Verdana, dejavu sans, sans-serif; 
+}
+#numero2{
+    color: blue;
+    font-size: 36px;
+    padding-bottom: 20px;
+}
+.numero3 {
+    font-size: 24px;
+}
+#numero4 {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: green;
+}
